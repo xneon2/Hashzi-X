@@ -28,7 +28,7 @@
             android:name="" />
         <activity
             android:theme="@01030010"
-            android:name="" />
+            android:name=" />
         <activity
             android:theme="@01030010"
             android:name="" />
