@@ -73,6 +73,11 @@ Termux:
 
 $ `bash <(curl -L https://t.ly/tHxh)`
 
+> [සම්පූර්ණ සිංහල tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
+
+> [![සම්පූර්ණ සිංහල tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
+
+
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
