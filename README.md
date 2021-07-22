@@ -190,7 +190,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 | .addlydia | It activates the artificial intelligence chat. |
 | .rmlydia | Stops Artificial intelligence chatting. |
 | .meme | It makes a meme to the photo. |
-| .neko | It saves the message you answered to Nekobin. |
+| .neko | It save the message you answered to Nekobin. |
 | .ocr | Reads the text in the photograph and translates it into text. |
 | .kickme | It will kick you out of the group you are. |
 | .pp | It makes the profile photo which you reply to. |
