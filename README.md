@@ -152,7 +152,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 | Command 💻 | Description ℹ️ |
 | ---------- | -------------------- |
-| .asena | Shows all existing commands.
+| .neotro | Shows all existing commands.
 | .alive | Checks if the bot is running. |
 | .ban | Kick the user from the group. |
 | .afk | It makes you AFK. Sends the afk message when you receive a private message or tag. |
@@ -163,7 +163,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 | .plugin | Shows the plugins you have installed. |
 | .install | It installs plugins. |
 | .remove | It delete plugins. |
-| .xmedia | It shows preset effects that you can apply to photo, video, and sound.
+| .nmedia | It shows preset effects that you can apply to photo, video, and sound.
 | .unvoice | Sends any sound as a voice message. |
 | .scam | It does fake actions. |
 | .carbon | Converts the text to the code picture. |
@@ -172,8 +172,8 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 | .mute | Close the chat. |
 | .unmute | Open the chat. |
 | .invite | Sends the link to the group. |
-| .mp4audio | Converts video to sound. |
-| .imagesticker | Converts image sticker to photo. |
+| .mp3 | Converts video to sound. |
+| .photo | Converts image sticker to photo. |
 | .ffmpeg | It applies the desired ffmpeg filter to the video.
 | .filter | Adds a filter. It is active when someone writes the filter. |
 | .stop | Stops the filter. |
@@ -237,7 +237,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 | .neonlight | Converts the text into neon light image |
 | .3dtext | Converts the text into neon light image |
 
-### XMedia Plugin Commands 🛠️
+### nmedia Plugin Commands 🛠️
 | Command 💻 | Description ℹ️ |
 | ---------- | -------------------- |
 | .mp4enhance | It improves the quality of the video.
