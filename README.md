@@ -1,4 +1,4 @@
-<h1 align="center"><b> ᴛʜᴇ 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
 
