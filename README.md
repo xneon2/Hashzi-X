@@ -67,8 +67,11 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR)
 
+## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
- Termux භාවිතා කිරීමෙන්  QR කේතය ලබා ගත හැකිය. (Android පමනි. IOS භාවිතා කරන්නන්ට repl.it button භාවිතා කළ යුතුය)
+ 
+
+Termux භාවිතා කිරීමෙන්  QR කේතය ලබා ගත හැකිය. (Android පමනි. IOS භාවිතා කරන්නන්ට repl.it button භාවිතා කළ යුතුය)
 
 Termux:
 
@@ -89,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
-### Features
+### පහසුකම්
 
 | All Features 📢 | Available ☑️ | Version 🔎 |
 | ------------- | ------------ | ---------- |
