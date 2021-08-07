@@ -71,6 +71,9 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 > [සම්පූර්ණ සිංහල tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
 
+## Termux මඟින් QR කේතය ලබා ගැනීමට පහල Code එක Termux වල Run කරන්න
+ ```$ bash <(curl -L https://t.ly/LpaQ)```
+
 > [![සම්පූර්ණ සිංහල tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
 
