@@ -1,4 +1,4 @@
-<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
+<h1 align="center"><b> 🎭𝗖𝘂𝘇𝗶𝗲𝗿 𝗫⚡ ʙᴏᴛ  </b></h1>
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
 
@@ -6,7 +6,7 @@
 
 
 <p align="center">
-    Project of  🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
+    Project of  🎭𝗖𝘂𝘇𝗶𝗲𝗿 𝗫🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">TeenuhX Whatsapp </a> |
