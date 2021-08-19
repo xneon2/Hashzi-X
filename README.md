@@ -293,7 +293,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 | .moodai | It determines your mood from the sentence you write. |
 | .textai | Creates a virtual story from your sentence. |
 | .nudityai | Shows the NSFW value of the photo between 1 and 0. |
-| .ganstyle | Combines pictures with the image link in Config Vars with the help of artificial intelligence.
+| .ganstyle | Combines pictures with the image link in Config Vars with the help of artificial intelligence..
 
 ## ⚡Developers
   <div align="center">
