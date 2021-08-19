@@ -65,7 +65,7 @@
 
 ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
 
 ## Termux මඟින් QR කේතය ලබා ගැනීමට පහල Code එක Termux වල Run කරන්න
  ```$ bash <(curl -L https://t.ly/LpaQ)```
