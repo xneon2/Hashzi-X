@@ -67,9 +67,6 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
 
-## Termux මඟින් QR කේතය ලබා ගැනීමට පහල Code එක Termux වල Run කරන්න
- ```$ bash <(curl -L https://t.ly/LpaQ)```
-
 ## QR කේතය ලබා ගත් පසු Bot deploy කිරීමට පහල බටනය CLICK කරන්න..
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
