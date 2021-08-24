@@ -73,6 +73,17 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
 
+#### If you are a mobile phone user. You can get the QR code using Termux. (Android only. IOS users must use the repl.it button)
+
+Termux:
+
+$ `bash <(curl -L https://t.l)`
+
+`You need 2 mobile phones to build the Neotro-x  bot!
+You will run the bot from the second device.
+You will only generate a QR code with the first device.
+From the first device you need to install Neotro-x  Bot.`
+
 > [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
 
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
