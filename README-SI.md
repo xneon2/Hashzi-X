@@ -96,7 +96,7 @@ Neotro-x  bot ගොඩනැගීමට ඔබට ජංගම දුරකථ
 
 මෙන්න සම්පූර්ණ විධාන ලැයිස්තුව
 
-<a href="https://gist.github.com/xneon2/86f619bc49691abb73546819754e1b94">
+<a href="https://gist.github.com/xneon2/61e9205076afa540fc1d5f7a6f467bd1">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
