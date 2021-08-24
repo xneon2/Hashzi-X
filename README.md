@@ -66,30 +66,38 @@
   </a>
 </p>
 
-## You can easily get the QR code Repl.it .. Click the button below
+## 💡Setup 
+
+### 🔗Simple method 
+
+#### You can easily get the QR code Repl.it .. Click the button below
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
-
-## After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
-
-
-#### If you are a mobile phone user. You can get the QR code using Termux. (Android only. IOS users must use the repl.it button)
-
-Termux:
-
-$ `bash <(curl -L https://t.l)`
 
 `You need 2 mobile phones to build the Neotro-x  bot!
 You will run the bot from the second device.
 You will only generate a QR code with the first device.
 From the first device you need to install Neotro-x  Bot.`
 
+#### 🔗After getting the QR code, click the button below to apply the bot...
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
+
+
 > [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
 
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
+# 🚀Neotro-x
+Here is the Neotro-x  bot features
 
+<a href="https://gist.github.com/B/28493a9b3e4f6ade7774a68c1c05">
+    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
+Here is the Neotro-x  Command list
+
+<a href="https://gist.github.com/B/28493a9b3e4f6ade7774a68c1c05">
+    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
+
+  </a>
 
 ## F.A.Q
 Answer a few frequently asked questions;
@@ -109,13 +117,6 @@ This is an open source project, you are responsible for everything you do.
 Absolutely, Neotro-x  executives do not accept responsibility.
 By establishing the neotro-x, you are deemed to have accepted these responsibilities.
 ```
-
-# Neotro-x bot features
-Here is the Neotro-x  bot features.
-<a href="">
-    <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
-
-  </a>
 
     
 ## 👽Thanks To
