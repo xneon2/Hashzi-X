@@ -1,3 +1,7 @@
+#### © Select your language
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/launch/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/launch/README-SI.md)
+
 <h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
@@ -80,11 +84,9 @@
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Absolutely, Neotro-x  executives do not accept responsibility.
+By establishing the neotro-x, you are deemed to have accepted these responsibilities.
 ```
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
 ### පහසුකම්
 
