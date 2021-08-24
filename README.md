@@ -89,7 +89,7 @@ From the first device you need to install Neotro-x  Bot.`
 # 🚀Neotro-x
 Here is the Neotro-x  bot features
 
-<a href="https://gist.github.com/B/28493a9b3e4f6ade7774a68c1c05">
+<a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
 Here is the Neotro-x  Command list
