@@ -1,6 +1,6 @@
 #### © Select your language
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/launch/README-SI.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
 <h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ ʙᴏᴛ  </b></h1>
