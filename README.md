@@ -78,6 +78,19 @@
 > [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
 
+
+
+## F.A.Q
+Answer a few frequently asked questions;
+### Can you read my messages???
+Since this project is open source, all codes are clear. Not more or less; You can see what you want. **Your accounts are not accessible.**
+
+### 🔒What about our security?
+If you are concerned about security, you can install it on your own computer. If you think someone else has taken over your data, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
+
+### 💰Do these bots have to pay??
+**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94766598862) 
+
 ### ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
