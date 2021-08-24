@@ -124,28 +124,28 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
-<a href="">
+<a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="">
+<a href="https://Wa.me/+14382551507">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="">
+<a href="https://Wa.me/+17722181933">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-<a href="">
+<a href="https://Wa.me/+17723534981">
     <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
   
   </a>
 
-[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)]()
-[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)]()
+[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
+[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
   
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
