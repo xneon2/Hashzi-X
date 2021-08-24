@@ -1,6 +1,6 @@
 #### © Select your language
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/launch/README-SI.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
 <h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ʙᴏᴛ  </b></h1>
@@ -70,15 +70,15 @@
 
 ### සරල ක්‍රමය
 
-#### You can easily get the QR code Repl.it .. Click the button below
+#### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
 
-`You need 2 mobile phones to build the Neotro-x  bot!
-You will run the bot from the second device.
-You will only generate a QR code with the first device.
-From the first device you need to install Neotro-x  Bot.`
+Neotro-x  bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
+ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
+පළමු උපාංගයෙන් ඔබට Neotro-x  Bot install කිරීමට අවශ්‍යයි..`
 
-#### After getting the QR code, click the button below to apply the bot...
+#### QR කේතය ලබා ගත් පසු පහලය බටනය ඔබලා Bot deploy කරන්න
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
 
@@ -115,11 +115,7 @@ From the first device you need to install Neotro-x  Bot.`
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Neotro-x  executives do not accept responsibility.
-By establishing the neotro-x, you are deemed to have accepted these responsibilities.
-```
+
 
 ## 👨‍💻Developers
 
