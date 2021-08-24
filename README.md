@@ -68,7 +68,7 @@
 
 ## 💡Setup 
 
-### 🔗Simple method 
+### Simple method 
 
 #### You can easily get the QR code Repl.it .. Click the button below
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
@@ -78,7 +78,7 @@ You will run the bot from the second device.
 You will only generate a QR code with the first device.
 From the first device you need to install Neotro-x  Bot.`
 
-#### 🔗After getting the QR code, click the button below to apply the bot...
+#### After getting the QR code, click the button below to apply the bot...
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
 
@@ -96,7 +96,7 @@ Here is the Neotro-x  bot features
 
 Here is the Neotro-x  Command list
 
-<a href="https://gist.github.com/B/28493a9b3e4f6ade7774a68c1c05">
+<a href="https://gist.github.com/xneon2/86f619bc49691abb73546819754e1b94">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
