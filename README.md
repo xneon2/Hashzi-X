@@ -120,7 +120,33 @@ Absolutely, Neotro-x  executives do not accept responsibility.
 By establishing the neotro-x, you are deemed to have accepted these responsibilities.
 ```
 
-    
+## 👨‍💻Developers
+
+[![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
+
+<a href="">
+    <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
+  
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+<a href="">
+    <img src="https://img.shields.io/badge/FindOn%20Whatsapp-purple&style=plastic">
+  
+  </a>
+
+[![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)]()
+[![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)]()
+  
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
