@@ -91,6 +91,8 @@ Here is the Neotro-x  bot features
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
+  
+  </a>
 
 Here is the Neotro-x  Command list
 
