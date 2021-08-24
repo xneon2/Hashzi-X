@@ -12,7 +12,7 @@
     Project of  🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
-        <a href="https://Wa.me/+94766598862">TeenuhX Whatsapp </a> |
+        <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
         <a href="https://Wa.me/+94 75 881 7307">En Cuizer whatsapp |
         
     <Enjoy & stay safe stay home>
