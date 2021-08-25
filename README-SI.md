@@ -157,11 +157,11 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 👨‍💻 Ramilka Rodrigo [ Pluggings  ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94770828171)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-Telegram-blue.svg)](https://Wa.me/t.me/ramiya_yt)
 
 👨‍💻 En Cuizer     [ Logo Creation ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94762785289)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
 
 👨‍💻 Hazel Anne   [  BUG Reporter  ]
 
