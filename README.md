@@ -156,15 +156,15 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 
 👨‍💻 Ramilka Rodrigo [ Pluggings  ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94770828171)
+[![Find On Telegram ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://t.me/ramiya_yt)
 
 👨‍💻 En Cuizer     [ Logo Creation ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94762785289)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94725549179)
 
 👨‍💻 Hazel Anne   [  BUG Reporter  ]
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94725549179)
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
 
 👨‍💻 Rashid Ziyas  [ Script Writer ]
 
