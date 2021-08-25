@@ -147,6 +147,29 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
   
+### 🚀Neutro Team
+
+👨‍💻TEENUH - X 
+
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/)
+
+
+👨‍💻 Ramilka Rodrigo [ Pluggings  ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
+
+👨‍💻 En Cuizer     [ Logo Creation ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
+
+👨‍💻 Hazel Anne   [  BUG Reporter  ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
+
+👨‍💻 Rashid Ziyas  [ Script Writer ]
+
+[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
+
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
