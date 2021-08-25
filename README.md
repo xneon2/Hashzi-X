@@ -156,7 +156,7 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
 
 👨‍💻 Ramilka Rodrigo [ Pluggings  ]
 
-[![Find On Telegram ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://t.me/ramiya_yt)
+[![Find On Telegram ](https://img.shields.io/badge/Findon-telegram-blue.svg)](https://t.me/ramiya_yt)
 
 👨‍💻 En Cuizer     [ Logo Creation ]
 
