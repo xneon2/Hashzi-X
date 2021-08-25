@@ -120,7 +120,7 @@ Absolutely, Neotro-x  executives do not accept responsibility.
 By establishing the neotro-x, you are deemed to have accepted these responsibilities.
 ```
 
-## 👨‍💻Developers
+## 👨‍💻Developer
 
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
