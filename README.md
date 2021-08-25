@@ -149,7 +149,7 @@ By establishing the neotro-x, you are deemed to have accepted these responsibili
   
 ### 🚀Neutro Team
 
-👨‍💻TEENUH - X 
+👨‍💻 © Chethana Bro *[ Owner ]*
 
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/)
 
