@@ -4,12 +4,12 @@
     "logo": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg",
     "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "asena", "bug", "free rdp" ],
     "repository": "https://www.github.com/jesonpro/ales",
-    "website":   "wa",
+    "website":   "https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT",
     "success_url": "https://www.github.com/jesonpro",
     "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
-            "description": "Type here yours Asena Session.",
+            "description": "Type here yours NEUTRO Session.",
             "required": true
         },
         "SUDO": {
@@ -17,9 +17,9 @@
             "required": false
         },
         "LANGUAGE": {
-            "description": "Bot language. English => en,  Malayalam => ml, Indonesia => ID",
+            "description": "Bot language. English => en,  සිංහල => si, Indonesia => ID",
             "required": true,
-            "value": "en"
+            "value": "SI"
         },
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
@@ -106,12 +106,12 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.and if you use “admin”, only admin can use bot and not all feature (only features needed to maintain a standerd group)",
+            "description": "Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "public"
+            "value": "private"
         },
         "HEROKU_APP_NAME": {
-            "description": "Herokuda uygulama adı. Heroku APP Name.",
+            "description": "Heroku APP Name.",
             "required": true
         },
         "REMOVE_BG_API_KEY": {
