@@ -3,19 +3,19 @@
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/cc0e2bb2add47047d0fc0.jpg)
-<h1 align="center"><b> 🎭ɴᴇᴏᴛʀᴏ𝙭⚡ʙᴏᴛ  </b></h1>
+<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
 
 
 
 <p align="center">
-    Project of  🎭ɴᴇᴏᴛʀᴏ𝙭🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගන්න පුලුවන් Whatsapp රොබෝවෙකි. Neotro-x යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
+    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගන්න පුලුවන් Whatsapp රොබෝවෙකි. Neotro-x යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
         <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
-        <a href="https://Wa.me/+94 75 881 7307">En Cuizer whatsapp |
+       
         
-    😷නිවසට වී සිටින්න හැකි සෑම විටම මුඛ ආවරණ පලදින්න
+    😷හැකි සෑම විටම නිවසට වී සිටින්න
 </p>
 ---------------------------------------
 <p align="center">
@@ -66,7 +66,7 @@
   </a>
 </p>
 
-## 💡Setup 
+## 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
 
 ### සරල ක්‍රමය
 
@@ -86,8 +86,7 @@ Neotro-x  bot ගොඩනැගීමට ඔබට ජංගම දුරකථ
 
 > [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Neotro-x
-පහසුකම් ලැයිස්තුව
+# 🚀Neotro-x පහසුකම් ලැයිස්තුව
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
@@ -111,7 +110,10 @@ Neotro-x  bot ගොඩනැගීමට ඔබට ජංගම දුරකථ
 ඔබ ආරක්ෂාව ගැන සැලකිලිමත් වන්නේ නම්, ඔබට එය ඔබේම පරිගණකයකින් install කළ හැකිය. වෙනත් අයෙකු ඔබගේ දත්ත ග්‍රහණය කර ගෙන ඇතැයි ඔබ සිතන්නේ නම්, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
 ### 💰මෙම බොට් ගෙවිය යුතුද?
-**ඇත්ත වශයෙන්ම නැත.** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/+94766598862) .
+**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/+94766598862) .
+
+### ❓ඔබට මෙය නැවත සංස්කරණය කළ හැකිද??
+***අනිවාර්යයෙන් ඔබට හැකියි.*** නමුත් අපෙන් ඔබට කිසිදු සහයක් නොමැත.
 
 ### ⚠️ Warning! 
 ```
@@ -121,10 +123,11 @@ Neotro-x  bot ගොඩනැගීමට ඔබට ජංගම දුරකථ
 neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
 
-## 👨‍💻Developers
+## 👨‍💻Developer
 
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
+( Chethana_Bro(Teenuh-X😈)
 <a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
@@ -147,32 +150,16 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 [![Telegram](https://img.shields.io/badge/FindOn-Telegram-green.svg)](https://t.me/@tharun_003)
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
-  
-### 🚀Neutro Team
-
-👨‍💻 © Chethana Bro *[ Owner ]*
-
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
 
 
-👨‍💻 Ramilka Rodrigo [ Pluggings  ]
+### 🚀Amazone Alexa Team
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-Telegram-blue.svg)](https://Wa.me/t.me/ramiya_yt)
-
-👨‍💻 En Cuizer     [ Logo Creation ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/)
-
-👨‍💻 Hazel Anne   [  BUG Reporter  ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+94725549179)
-
-👨‍💻 Rashid Ziyas  [ Script Writer ]
-
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-blue.svg)](https://Wa.me/+17723534981)
- 
+[![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ranahansika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
 
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
-
