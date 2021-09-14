@@ -134,7 +134,8 @@ By establishing the alexa, you are deemed to have accepted these responsibilitie
 ## 👨‍💻Developer
 
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
- Chethana_Bro(Teenuh-X😈)
+
+( Chethana_Bro(Teenuh-X😈)
 <a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
   
