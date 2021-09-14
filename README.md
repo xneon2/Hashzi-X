@@ -1,35 +1,32 @@
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-Sinhala-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-  [![Sinhala](https://img.shields.io/badge/Select-English-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
 
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
-<h1 align="center"><b> 🧚𝘼𝙈𝘼𝙕𝙊𝙉𝙀 𝘼𝙇𝙀𝙓𝘼 (ᴠɪᴘ)  </b></h1>
+<h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
 
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
-</p>
-</a>
-Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made in sri lanka userbot for Whatsapp.
-
-<a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
+    Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගන්න පුලුවන් Whatsapp රොබෝවෙකි. Neotro-x යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
+    <br>
+        <a href="https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX">Support Group</a> |
         <a href="https://Wa.me/+94766598862">ChethanaBro Whatsapp </a> |
-  
-`<Enjoy & stay safe stay home>`
+       
+        
+    😷හැකි සෑම විටම නිවසට වී සිටින්න
 </p>
-
-</a>
+---------------------------------------
 <p align="center">
   <a href="https://github.com/xneon2/Hashzi-X">
-    <img src="https://img.shields.io/docker/pulls/xneon2/Hashzi-X?style=flat-square"/></a>
+    <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
+  
   </a>
   <a href="https://github.com/xneon2/Hashzi-X">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
-
 </p>
 
 <p align="center">
@@ -69,66 +66,61 @@ Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made
   </a>
 </p>
 
-## 💡Setup 
+### 👩‍🦰ක්‍රියාත්මක කරන්නෙ කෙසේද??
 
-### Simple method 
+#### සරල ක්‍රමය
 
-#### You can easily get the QR code Repl.it .. Click the button below
+#### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
 
-`You need 2 mobile phones to build the Neotro-x  bot!
-You will run the bot from the second device.
-You will only generate a QR code with the first device.
-From the first device you need to install Neotro-x  Bot.`
+Neotro-x  bot ගොඩනැගීමට ඔබට ජංගම දුරකථන 2 ක් අවශ්‍ය වේ!
+ඔබ දෙවන උපාංගයෙන් bot ක්‍රියා කරනු ඇත. 
+ඔබ පළමු උපාංගය සමඟ පමණක් QR කේතය generate කරනු ඇත.
+පළමු උපාංගයෙන් ඔබට Neotro-x  Bot install කිරීමට අවශ්‍යයි..`
 
-#### After getting the QR code, click the button below to apply the bot...
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/AMAZON-BETA)
+#### QR කේතය ලබා ගත් පසු පහල බටනය ඔබලා Bot deploy කරන්න
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xneon2/Hashzi-X)
 
 
-> [Sinhala Youtube Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
+> [සම්පූර්ණ සිංහල Tutorial](https://www.youtube.com/watch?v=mcEeIspWOpY&ab_channel=UC8yo_BwOJs9cLfYVHewPC6Q)
 
-> [![Sinhala Youtube Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
+> [![සම්පූර්ණ සිංහල Tutorial](https://img.youtube.com/vi/mcEeIspWOpY/0.jpg)](https://www.youtube.com/watch?v=mcEeIspWOpY)
 
-# 🚀Amazone Alexa
-🦹‍♀️Here is the Amazone  bot features
+# 🚀Neotro-x පහසුකම් ලැයිස්තුව
 
 <a href="https://gist.github.com/xneon2/ff9aa739e8c1399d05c79db1dab9ee4c">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
   
   </a>
 
-🦹‍♀️Here is the Alexa  Command list
+මෙන්න සම්පූර්ණ විධාන ලැයිස්තුව
 
-<a href="https://gist.github.com/xneon2/86f619bc49691abb73546819754e1b94">
+<a href="https://gist.github.com/xneon2/61e9205076afa540fc1d5f7a6f467bd1">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
 
-## F.A.Q
-Answer a few frequently asked questions;
-### Can you read my messages???
-Since this project is open source, all codes are clear. Not more or less; You can see what you want. **Your accounts are not accessible.**
+## 🚀F.A.Q
+නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු සපයන්න;
 
-### 🔒What about our security?
-If you are concerned about security, you can install it on your own computer. If you think someone else has taken over your data, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
+### ඔබට මගේ පණිවිඩ කියවිය හැකිද??
+මෙම ව්‍යාපෘතිය විවෘත කේතයක් බැවින් සියලු කේත පැහැදිලි වේ. අඩු හෝ වැඩි නොවේ; ඔබට අවශ්‍ය දේ බැලීමට ඔබට හැකිය. **අපට ඔබගේ ගිණුම් වලට ප්‍රවේශයක් නොමැත.**
 
-### 💰Do these bots have to pay??
-**Of course not.** It never happens. But you can donate to us. You can reach me via [Whatsapp](https://wa.me/94766598862) 
+### 🔒අපේ ආරක්ෂාව ගැන කුමක් කිව හැකිද?
+ඔබ ආරක්ෂාව ගැන සැලකිලිමත් වන්නේ නම්, ඔබට එය ඔබේම පරිගණකයකින් install කළ හැකිය. වෙනත් අයෙකු ඔබගේ දත්ත ග්‍රහණය කර ගෙන ඇතැයි ඔබ සිතන්නේ නම්, **Whatsapp> Three Dots> Whatsapp Web> Logout**.
 
-### 🔄 Can I Edit this bot?
+### 💰මෙම බොට් ගෙවිය යුතුද?
+**ඇත්ත වශයෙන්ම නැත.*** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/+94766598862) .
 
-**As per the license, You Can** But We Will Not Support. 🙃
-
-### ❔ How many features/commands are there in this bot?
-
-There are **100+** Features/Commands Are there in **this bot!**
+### ❓ඔබට මෙය නැවත සංස්කරණය කළ හැකිද??
+***අනිවාර්යයෙන් ඔබට හැකියි.*** නමුත් අපෙන් ඔබට කිසිදු සහයක් නොමැත.
 
 ### ⚠️ Warning! 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, alexa  executives do not accept responsibility.
-By establishing the alexa, you are deemed to have accepted these responsibilities.
+පරිශීලක බොට් නිසා; ඔබගේ WhatsApp ගිණුම banned කළ හැකිය.
+මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියකි, ඔබ කරන සෑම දෙයකටම ඔබ වගකිව යුතුය. 
+නියත වශයෙන්ම,Neotro-x  විධායකයන් වගකීම භාර නොගනී.
+neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
 
 ## 👨‍💻Developer
