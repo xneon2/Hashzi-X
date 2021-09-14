@@ -162,10 +162,10 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ### 📑Amozon Support Groups
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
-[![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support-blue.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://Wa.me/+94766598862)
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
