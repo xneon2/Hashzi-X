@@ -5,9 +5,12 @@
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
 <h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
+</p>
 
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
+</p>
+</a>
 <p align="center">
     Project of  🧚Amazone Alexa🪐 - යනු භාවිතය පහසු හා ලේසියෙන් සාදාගන්න පුලුවන් Whatsapp රොබෝවෙකි. Neotro-x යනු ලංකාවෙ පළවෙනි සිංහල whatsapp රොබෝව වේ..🇱🇰
     <br>
