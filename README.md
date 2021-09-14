@@ -1,12 +1,13 @@
 #### © Select your language
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
   [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
-
+              
+       ⚡ ◁====BETA RELEASE===▷
 ![logo](https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg)
 <h1 align="center"><b> 🧚𝗔𝗠𝗔𝗭𝗢𝗡𝗘 𝗔𝗟𝗘𝗫𝗔 (ᴠɪᴘ) </b></h1>
 
 </p>
-             BETA RELEASE 
+             
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Amazone+Alexa&font=Fira%20Code&center=true&width=380&height=50">
 </p>
