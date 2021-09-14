@@ -166,10 +166,13 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 ### 📑Amozon Support Groups
 
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://Wa.me/+94766598862)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support-blue.svg)](https://Wa.me/+94766598862)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News01-purple.svg)](https://Wa.me/+94766598862)
-[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News02-purple.svg)](https://Wa.me/+94766598862)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support-01-blue.svg)](https://chat.whatsapp.com/GTgqgMTo7FoJ1GqdijshsX)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support-02-blue.svg)](https://chat.whatsapp.com/K4QouGNrNcm1iARgDaYiLj)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-Support-03-blue.svg)](https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazome-News-01-purple.svg)](https://chat.whatsapp.com/LuLTEKm22fp8gv4ltCmKMo)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News-02-purple.svg)](https://chat.whatsapp.com/LVykTrmNEU98AktU0eBNNq)
+[![Find On Whatsapp ](https://img.shields.io/badge/Amazone-News-03-purple.svg)](https://chat.whatsapp.com/JdNWV3viiGKGINYNrb5oy8)
 ## 👽Thanks To
 [![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)
 [Yusuf Usta](https://t.me/fusufs)
