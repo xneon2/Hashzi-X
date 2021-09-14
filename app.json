@@ -174,7 +174,7 @@
             "required": false,
             "value": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg"
        },
-        "MENU_LOGO": {
+       "MENU_LOGO": {
             "description": "Alive message Photo.",
             "required": false,
             "value": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg"
@@ -183,6 +183,16 @@
             "description": "Activate AI SIM chat bot",
             "required": false,
             "value": "true"
+       },
+       "SONGD": {
+            "description": "Customizable Song Download message",
+            "required": false,
+            "value": "👩‍🦰Downloading Your Song"
+        },
+        "SONGU": {
+            "description": "Customizable Song upload message",
+            "required": false,
+            "value": "🚀Uploading Your Song"
         },
         "AFK_MESSAGE": {
             "description": "Customizable AFK Message! Use => default, to change back.",
