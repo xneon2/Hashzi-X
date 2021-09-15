@@ -161,9 +161,9 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 [![Find On Telegram ](https://img.shields.io/badge/Ramilka-Rodrigo-blue.svg)](https://t.me/ramiya_yt) [![Encuizer ](https://img.shields.io/badge/En-Cuizer-blue.svg)](https://Wa.me/+94725549179) [![Find On Whatsapp ](https://img.shields.io/badge/Chamee-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Hazel-Safron-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Rashid-Riyaz-blue.svg)](https://Wa.me/+17723534981) [![Find On Whatsapp ](https://img.shields.io/badge/mr.freez-blue.svg)](https://Wa.me/)
-[![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ranahansika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
+[![Find On Whatsapp ](https://img.shields.io/badge/Lithira-Ransika-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Lucifer-blue.svg)](https://Wa.me/)
 [![Find On Whatsapp ](https://img.shields.io/badge/Akash-thevidu-blue.svg)](https://Wa.me/) [![Find On Whatsapp ](https://img.shields.io/badge/Josh-Mardown-blue.svg)](https://Wa.me/)
-
+[![Find On Whatsapp ](https://img.shields.io/badge/Ganster-blue.svg)](https://Wa.me/)
 ### 📑Amozon Support Groups
 
 [![Find On Whatsapp ](https://img.shields.io/badge/Amazon-Plugins-red.svg)](https://chat.whatsapp.com/JJs2iwfF0VKL3IWrIyr7AT)
