@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
-            "description": "Type here yours Asena Session.",
+            "description": "Type here yours NEOTRO  Session.",
             "required": true
         },
         "SUDO": {
