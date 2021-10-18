@@ -1,28 +1,73 @@
 {
-    "name": "Amazon",
-    "description": "Amazone Alexa Is Powerfull whatsapp bot For Whatsapp",
+    "name": "Amazon👸Alexa",
+    "description": "❤️Amazone Alexa Is a Powerfull bot for Whatsapp Powered By ©️TEENU-X",
     "logo": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg",
-    "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "asena", "bug", "free rdp" ],
+    "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "alexa", "bug", "free rdp" ],
     "repository": "https://www.github.com/xneon2/Hashzi-X",
     "website":   "https://t.me/Amazone_Neotrox_Support",
     "success_url": "https://t.me/Amazone_Neotrox_Support",
     "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
-            "description": "Type here yours NEOTRO  Session.",
+            "description": "Type here yours Neotro Session. - QR scan කළ පසු ලැබෙන කේතය.",
             "required": true
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 9478xxxxxxxxx (Sri lanka number +94)",
             "required": false
         },
+        "PANEL_COMMAND": {
+            "description": "Panel Command",
+            "required": false,
+            "value": "alexa"
+        },
+        "BUG_COMMAND": {
+            "description": "Bug Command",
+            "required": false,
+            "value": "bug"
+        },
+        "TIME_ZONE": {
+            "description": "type your time zone (pass this sri lankan users) ",
+            "required": false,
+            "value": "Asia/Colombo"
+        },
+        "EMOJI_COMMAND": {
+            "description": "Panel Command emoji",
+            "required": false,
+            "value": "🛡️"
+        },
+        "EMOJI_DESCRIPTION": {
+            "description": "Panel Description emoji",
+            "required": false,
+            "value": "🔍"
+        },
+        "EMOJI_EXAMPLE ": {
+            "description": "Panel Example emoji",
+            "required": false,
+            "value": "🔆"
+        },
+        "EMOJI_WARNING": {
+            "description": "Panel Warning emoji",
+            "required": false,
+            "value": "⚠️"
+        },
+        "MENU_LOGO": {
+            "description": "",
+            "required": false,
+            "value": ""
+        },
+        "MENU_INFO": {
+            "description": "write Some Words about yor Bot You can Edite this",
+            "required": false,
+            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+        },
         "LANGUAGE": {
-            "description": "Bot language. English => en,  sinhala => si, Indonesia => ID",
+            "description": "Bot language. English => EN,  සිංහල භාශාව සදහා => SI",
             "required": true,
-            "value": "si"
+            "value": "SI"
         },
         "BIO": {
-            "description": "Change Your live Bio",
+            "description": "Change Your live Bio | ඔබේ About එකට අවශ්‍ය දෙයක් මෙහි ලියන්න",
             "required": false,
             "value": "ɪ ᴀᵐ ⁿᵒᵗ ᵖᵉʳᶠᵉᶜᵗ ʙᵘᵗ ɪ  ᴀᵐ ʟⁱᵐⁱᵗᵉᵈ ᴇᵈⁱᵗⁱᵒⁿ👀🔥"
         },
@@ -31,6 +76,11 @@
             "required": false,
             "value": "false"
          },
+        "FULL_ALEXA": {
+            "description": "Activate alexa chat bot",
+            "required": false,
+            "value": "false"
+        },
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
@@ -51,18 +101,18 @@
             "required": true,
             "value": "^[.!;]"
         },
-       "BOT_NAME": {
+        "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
             "value": "👩‍🦰©Amazone Alexa"
         },
+        "CAPTIONS": {
+            "description": "LOGO CAPTIONS - බොට්ගෙන් LOGO එකක Caption එක",
+            "required": false,
+            "value": "Made By👩‍🦰©Amazone Alexa"
+        },
         "WHATS_LINK_BLOCK": {
             "description": "Link Blocking System.- this one blocks whatsapp group  link",
-            "required": true,
-            "value": "false"
-        },
-        "NO_LOG": {
-            "description": "Set true if you don't want to see error log.",
             "required": true,
             "value": "false"
         },
@@ -85,11 +135,6 @@
             "required": false,
             "value": "default"
        },
-         "THERI_LIST": {
-            "description": "Safe mode",
-            "required": true,
-            "value": "true"
-        },
         "BLOCK_CHAT": {
             "description": "Choose in which chat the bot won't work there. Ex: 947xxxx && 947xxxx-1xxx or 947xxxx,947xxx...(sri lanka)",
             "required": false,
@@ -111,12 +156,12 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.and if you use “admin”, only admin can use bot and not all feature (only features needed to maintain a standerd group)",
+            "description": "Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
-            "value": "public"
+            "value": "private"
         },
         "HEROKU_APP_NAME": {
-            "description": "Herokuda uygulama adı. Heroku APP Name.",
+            "description": "Heroku APP Name.",
             "required": true
         },
         "REMOVE_BG_API_KEY": {
@@ -173,16 +218,6 @@
             "description": "Alive message Photo.",
             "required": false,
             "value": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg"
-       },
-        "MENU_LOGO": {
-            "description": "Menu message Photo.",
-            "required": false,
-            "value": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg"
-        },
-        "AI_BOT": {
-            "description": "Activate AI SIM chat bot",
-            "required": false,
-            "value": "true"
         },
         "AFK_MESSAGE": {
             "description": "Customizable AFK Message! Use => default, to change back.",
