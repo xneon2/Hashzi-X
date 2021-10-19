@@ -1,5 +1,5 @@
 {
-    "name": "Amazon👸Alexa",
+    "name": "Amazon Alexa",
     "description": "❤️Amazone Alexa Is a Powerfull bot for Whatsapp Powered By ©️TEENU-X",
     "logo": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg",
     "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "alexa", "bug", "free rdp" ],
@@ -52,7 +52,7 @@
             "value": "⚠️"
         },
         "MENU_LOGO": {
-            "description": "",
+            "description": "Menu logo Link",
             "required": false,
             "value": ""
         },
