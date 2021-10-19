@@ -1,70 +1,20 @@
 {
-    "name": "Amazon Alexa",
-    "description": "❤️Amazone Alexa Is a Powerfull bot for Whatsapp Powered By ©️TEENU-X",
-    "logo": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg",
-    "keywords": ["whatsapp", "userbot", "java", "button bot", "whatsapp", "api", "ai", "alexa", "bug", "free rdp" ],
-    "repository": "https://www.github.com/xneon2/Hashzi-X",
-    "website":   "https://t.me/Amazone_Neotrox_Support",
-    "success_url": "https://t.me/Amazone_Neotrox_Support",
+    "name": "Amazone Alexa V8",
+    "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
+    "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
+    "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
+    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "stack": "container",
     "env": {
         "NEUTRO_SESSION": {
-            "description": "Type here yours Neotro Session. - QR scan කළ පසු ලැබෙන කේතය.",
+            "description": "Paste your QR session.",
             "required": true
         },
         "SUDO": {
-            "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 9478xxxxxxxxx (Sri lanka number +94)",
+            "description": "If you do not know how to use it, leave it blank! SUDO mode; Your number must be an international number. So you have to have your number after the country code. Example: 947xxxxxxxx (Sri lanka No. 94)",
             "required": false
-        },
-        "PANEL_COMMAND": {
-            "description": "Panel Command",
-            "required": false,
-            "value": "alexa"
-        },
-        "BUG_COMMAND": {
-            "description": "Bug Command",
-            "required": false,
-            "value": "bug"
-        },
-        "TIME_ZONE": {
-            "description": "type your time zone (pass this sri lankan users) ",
-            "required": false,
-            "value": "Asia/Colombo"
-        },
-        "EMOJI_COMMAND": {
-            "description": "Panel Command emoji",
-            "required": false,
-            "value": "🛡️"
-        },
-        "EMOJI_DESCRIPTION": {
-            "description": "Panel Description emoji",
-            "required": false,
-            "value": "🔍"
-        },
-        "EMOJI_EXAMPLE ": {
-            "description": "Panel Example emoji",
-            "required": false,
-            "value": "🔆"
-        },
-        "EMOJI_WARNING": {
-            "description": "Panel Warning emoji",
-            "required": false,
-            "value": "⚠️"
-        },
-        "MENU_LOGO": {
-            "description": "Menu logo Link",
-            "required": false,
-            "value": ""
-        },
-        "MENU_INFO": {
-            "description": "write Some Words about yor Bot You can Edite this",
-            "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
-        },
-        "LANGUAGE": {
-            "description": "Bot language. English => EN,  සිංහල භාශාව සදහා => SI",
-            "required": true,
-            "value": "SI"
         },
         "BIO": {
             "description": "Change Your live Bio | ඔබේ About එකට අවශ්‍ය දෙයක් මෙහි ලියන්න",
@@ -76,6 +26,11 @@
             "required": false,
             "value": "false"
          },
+        "BOT_NAME": {
+            "description": "give a name you disire to give your bot (for auto reply white to identify)",
+            "required": false,
+            "value": "👩‍🦰©Amazone Alexa"
+        },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
             "required": false,
@@ -91,148 +46,197 @@
             "required": false,
             "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
         },
+        "LANGUAGE": {
+            "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
+            "required": true,
+            "value": "SI"
+        },
         "AUTO_BIO": {
-            "description": "Set true for auto date, time in biography.",
+            "description": "Setup AUTO BIO feature. Adding a live clock for your WhatsApp about.",
             "required": true,
             "value": "false"
         },
         "HANDLERS": {
-            "description": " For commands.",
+            "description": "Enter bot prefix to use commands.",
             "required": true,
-            "value": "^[.!;]"
+            "value": "^[.!]"
         },
-        "BOT_NAME": {
-            "description": "give a name you disire to give your bot (for auto reply white to identify)",
-            "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
-        },
-        "CAPTIONS": {
-            "description": "LOGO CAPTIONS - බොට්ගෙන් LOGO එකක Caption එක",
-            "required": false,
-            "value": "Made By👩‍🦰©Amazone Alexa"
-        },
-        "WHATS_LINK_BLOCK": {
-            "description": "Link Blocking System.- this one blocks whatsapp group  link",
+        "AI_BOT": {
+            "description": "To enable / disable the AI chat bot. Use true to enable AI chat bot and false to deactivate AI chat bot.",
             "required": true,
-            "value": "false"
+            "value": "true"
         },
         "SEND_READ": {
-            "description": "Write true if you want to throw seen.",
+            "description": "Need to show user whether bot message seen or not?",
             "required": true,
             "value": "true"
         },
         "HEROKU": {
-            "description": "If it is running in Heroku, type true.",
+            "description": "Heroku",
             "required": true,
             "value": "true"
         },
         "HEROKU_API_KEY": {
-            "description": "Heroku API Key.",
+            "description": "https://dashboard.heroku.com/account Click this link. Scroll down for the API key. Then click the Reveal button. Copy the API key and paste the API Key empty box below.",
             "required": true
         },
+        "HEROKU_APP_NAME": {
+            "description": "Use the same App name as first.",
+            "required": true
+        },
+        "CAPTIONS": {
+            "description": "Set your caption under medias.",
+            "required": true,
+            "value": "Made By 👩‍🦰Amazone Alexa"
+        },
         "MUTE_MESSAGE": {
-            "description": "Customizable Mute Message! Use => default, to change back.",
+            "description": "Message received when mute a group. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
-       },
+        },
         "BLOCK_CHAT": {
-            "description": "Choose in which chat the bot won't work there. Ex: 947xxxx && 947xxxx-1xxx or 947xxxx,947xxx...(sri lanka)",
+            "description": "Select the chat where the bot does not work. Ex: 947xxxxxxxx && 947xxxxxxxx හෝ 947xxxxxxxx,947xxxxxxxx",
             "required": false,
+            "value": "no chats added"
+        },
+        "ANTI_BAD": {
+            "description": "Activate Anti-Bad word for your groups. (Use true or false)",
+            "required": true,
             "value": "false"
         },
+        "WHATS_LINK_BLOCK": {
+            "description": "Activate Whatsapp link block for your groups. And protect your groups by bug bots.(Use true or false)",
+            "required": true,
+            "value": "false"
+        },
+        "ALIVE_LOGO": {
+            "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
+            "required": true,
+            "value": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg"
+        },
+        "WELCOME_GIF": {
+            "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
+            "required": true,
+            "value": "https://telegra.ph/file/d969f3365028c88c7719f.mp4"
+        },
+        "BYE_GIF": {
+            "description": "Good Bye message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
+            "required": true,
+            "value": "https://telegra.ph/file/d969f3365028c88c7719f.mp4"
+        },
         "UNMUTE_MESSAGE": {
-            "description": "Customizable Unmute Message! Use => default, to change back.",
+            "description": "Message received when unmuteing a group.",
             "required": false,
             "value": "default"
         },
         "BLOCK_MESSAGE": {
-            "description": "Customizable Block Message! Use => default, to change back.",
+            "description": "Modifiable chat block notification. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "UNBLOCK_MESSAGE": {
-            "description": "Customizable Unblock Message! Use => default, to change back.",
+            "description": "Modifiable chat unblock notification. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "Bot Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
             "value": "private"
         },
-        "HEROKU_APP_NAME": {
-            "description": "Heroku APP Name.",
-            "required": true
+        "EMOJI_COMMAND": {
+            "description": "You can change Command list emojis.)",
+            "required": true,
+            "value": "👸"
+        },
+        "EMOJI_DESCRIPTION": {
+            "description": "You can change command list emojis.)",
+            "required": true,
+            "value": "💰"
+        },
+        "EMOJI_WARNING": {
+            "description": "You can change command list emojis.)",
+            "required": true,
+            "value": "🚫"
+        },
+        "DEBUG": {
+            "description": "If you do not know this. Give it up.",
+            "required": true,
+            "value": "false"
+        },
+        "PANEL_COMMAND": {
+            "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
+            "required": true,
+            "value": "alexa"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "get api key. https://remove.bg",
+            "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
             "required": false
         },
         "ALIVE_MESSAGE": {
-            "description": "Customizable Alive Message! Use => default, to change back.",
+            "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
             "required": false,
             "value": "default"
         },
         "BAN_MESSAGE": {
-            "description": "Customizable Ban Message! Use => default, to change back.",
+            "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "ADD_MESSAGE": {
-            "description": "Customizable Add Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "KICKME_MESSAGE": {
-            "description": "Customizable Kickme Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
         },
         "PROMOTE_MESSAGE": {
-            "description": "Customizable Promote Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
-            
-         },
+        },
         "DEMOTE_MESSAGE": {
-            "description": "Demote Message! Use => default, to change back.",
+            "description": "If you do not want to change this message, type default.",
             "required": false,
             "value": "default"
+        },
+        "AFK_MESSAGE": {
+            "description": "If you do not want to change this message, type default.",
+            "required": false,
+            "value": "default"
+        },
+        "NO_ONLINE": {
+            "description": "This is not necessarily the case.",
+            "required": false,
+            "value": "true"
+        },
+        "COFFEEHOUSE_API_KEY": {
+            "description": "Give it up. We give you this.",
+            "required": false,
+            "value": "true"
+        },
+        "BUG_COMMAND": {
+            "description": "Bug Command",
+            "required": false,
+            "value": "bug"
+        },
+        "TIME_ZONE": {
+            "description": "type your time zone (pass this sri lankan users) ",
+            "required": false,
+            "value": "Asia/Colombo"
         },
         "INBOX_BLOCK": {
             "description": "Activate Inbox Block System true or false",
             "required": false,
             "value": "false"
         },
-        "WELCOME_GIF": {
-            "description": "Welcome Gif",
+        "MENU_INFO": {
+            "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "https://telegra.ph/file/d969f3365028c88c7719f.mp4"
-        }, 
-        "BYE_GIF": {
-            "description": "Bye gif",
-            "required": false,
-            "value": "https://telegra.ph/file/d969f3365028c88c7719f.mp4"
-        },
-        "ALIVE_LOGO": {
-            "description": "Alive message Photo.",
-            "required": false,
-            "value": "https://telegra.ph/file/e8f3e419b3dafe9fe8153.jpg"
-        },
-        "AFK_MESSAGE": {
-            "description": "Customizable AFK Message! Use => default, to change back.",
-            "required": false,
-            "value": "default"          
-       },
-        "BOT_PRESENCE": {
-            "description": "Type the Presence of bot, presences: online => Always Shows the online, offline => Always Shows offline, typing => Always Shows typing, recording => Always Shows recording.. NOTE : THE PRESENCE WILL BE PERMANENT, UNTIL THE BOT IS ALIVE / RUNNING / WORKING",
-            "required": false,
-            "value": "offline"
-        },
-        "COFFEEHOUSE_API_KEY": {
-            "description": "Pass This Step!",
-            "required": false,
-            "value": "true"
+            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
         }
     },
     "addons": [{
