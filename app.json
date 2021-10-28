@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "𒅄ɴᴇᴛʜᴍɪᴋᴀ🔊ʙʀᴏᴏ🔊ʙᴏᴛ𒅄"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -39,12 +39,24 @@
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
-            "value": "*◦•●◉Downloading Your Song◉●•◦*"
+            "value": "*☺Downloading Your Song☺
+
+☺Downloading Your Song☺
+
+☺Downloading Your Song☺
+
+𒅄ɴᴇᴛʜᴍɪᴋᴀ🔊ʙʀᴏᴏ🔊ʙᴏᴛ𒅄*"
         },
         "SONGU": {
             "description": "Customizable Song upload message",
             "required": false,
-            "value": "*◦•●◉✿Uploading Your Song✿◉●•◦*"
+            "value": "*☺Downloading Your Song☺
+
+☺Downloading Your Song☺
+
+☺Downloading Your Song☺
+
+𒅄ɴᴇᴛʜᴍɪᴋᴀ🔊ʙʀᴏᴏ🔊ʙᴏᴛ𒅄*"
         },
         "LANGUAGE": {
             "description": "Enter your language. SI - Sinhala | EN - English | ES - Spanish(ag)",
@@ -87,12 +99,13 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "*🚀Made by 𒅄ɴᴇᴛʜᴍɪᴋᴀ ʙʀᴏᴏ𒅄*"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
             "required": false,
-            "value": "default"
+            "value": "🚫⃟⃟⃟⃟⃟ ⃟⃟⃟⃟⚡︎➟⏤͟͟͞͞❤️ꦿ࿔*සුභ රාත්‍රියක්⃞ᴳоо🅳⃢ᴺɪɢʜ🆃💓
+*🇱🇰 ❱❱❱🍃⃟✦⃝🌼᭄᭄᭄̊̊̊̊̊̊࿔😯⃟💦᭄᭄̊̊̊̊࿔❱❱❱* 😈🥺➳̶☞̱̱̱̱̱̱̱̱̱̄̄̄̄̄̄̄̄̄̄̄➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀⃟ ⃟❖❁⃝❤️➸⃟̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀ ❤̋҉̋⃢**➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀🌺⍤⃝───ගුඩ් නයිට්✺⃘̶̶۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟̊̊̊̊̊̊͜͡?❥⃢❀͙͙͙͙͙͙͙̽̽̽̽̽̽̽̽᳑̽☢︎︎༒︎✺⃘̶̶۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟۟̊̊̊̊̊̊͜͡ ~      බුදු සරනයි🙏🙏🙏🙏🌺 පරිස්සමින් ❤️ ◎⃝»̶̶͓͓͓̽̽̽❁͜͡❁ཻ͜͡💝☞ඉන්න➳̶☞̱̱̱̱̱̱̱̱̱̄̄̄̄̄̄̄̄̄̄̄➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀⃟ ❤️😌😴😴😴**💫🌸💫🌸"
         },
         "BLOCK_CHAT": {
             "description": "Select the chat where the bot does not work. Ex: 947xxxxxxxx && 947xxxxxxxx හෝ 947xxxxxxxx,947xxxxxxxx",
@@ -117,7 +130,7 @@
         "WELCOME_GIF": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://telegra.ph/file/d969f3365028c88c7719f.mp4"
+            "value": "https://telegra.ph/file/7d103290e49be6981afd6.mp4"
         },
         "BYE_GIF": {
             "description": "Good Bye message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
@@ -127,7 +140,9 @@
         "UNMUTE_MESSAGE": {
             "description": "Message received when unmuteing a group.",
             "required": false,
-            "value": "default"
+            "value": "💫🌸💫🌸🅶🅾🅾🅳 🅼🅾🆁🅽🅸🅽🅶🌹⃝✥⃟☺️᭄ꦿ *ගුඩ් මොනිම̸්̿̿͐❤̻̻̻̻̻̻̻̻̻͐͐͐̿̿̿̿༄༹༹༹༴༴⃟⃫͎͎͎͎͎͎͇͇͇͇͇͇͇̳̳̳̿̿̿̿̿̿❤️⃟✦⃝̮̮̮̯̯̯😌 සුභ උදෑසනක්❤️⃟⃟◍̸̸̸̸̣̣̣❀❤̐̐̐̐̐⇝⃟̗̗̗̗̗̗̗̗̗̗̖̖̋̋̋̋̋̋̋̋̋̋̋̏̏💔̩̩̭̭̭̭̭බුදු සරණයි🙃⃝⃟۝᭄̊̊࿔࿓ තෙරුවන් සරණයි🍃⃟✦⃝🌼᭄᭄᭄̊̊̊̊̊̊࿔☞⍤───★᭄✮͚🙊─⃤̸᭄̂̇✾̋ ⍤⃝☘️😘●͙͙͙͙͙͙█❁ཻ͜͡❀͙͙͙͙͙͙͙͙͙͙͝ ᭄ ❥᭄⃞⃝⃟⃟⃞⃝★────✌️☺️✦⃟🍀⃝🍏⃤💙⃝ꪶ➤ཻ⃝⃘̉̉̉̉̉̉⃝★᭄❥͜͡⃝ᶫᵒᵛᵉ⃝➤⃟̱̱̱̱̄̄̄̄😊
+*ගුම්මෝනිම්❁͜͡❁ཻ͜͡😋💝☞🥺➳̶☞̱̱̱̱̱̱̱̱̱̄̄̄̄̄̄̄̄̄̄̄➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀⃟ ⃟❖❁⃝❤️➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀❁͡ මැනික●͙ල"හ්᭄●͙͙͙͙͙❁⃝➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀❁ཻ͜͡  බුදුසරණයිꗶ❥ ⃝⃘η̶̩̥̩̥̩̥̩̥̩̥̩̥̩̥̩͓̩̬🌸─⃝►ꗶ❥ ⃝⃘η̶̩̥̩̥̩̥̩̥̩̥̩̥̩̥̩͓̩̬🌸─⃝»͓̽☞̱̱̱̱̱̱̱̱̱̄̄̄̄̄̄̄̄̄̄̄➸⃟̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀ දෙව්පිහිටයිꗶ❥ ⃝⃘η̶̩̥̩̥̩̥̩̥̩̥̩̥̩̥̩͓̩̬🌸─⃝►ꗶ❥ ⃝⃘η̶̩̥̩̥̩̥̩̥̩̥̩̥̩̥̩͓̩̬🌸─⃝»͓̽☞̱̱̱̱̱̱̱̱̱̄̄̄̄̄̄̄̄̄̄̄➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀⃟ ⃟❖❁⃝➸⃟̗̗̗̗̗̗̗̗̗̗̗̗̗̗̀̀̀̀̀̀̀̀̀̀̀̀̀❁͜͡🙏😘 සම්මාසම්බුදු❁ཻ͜͡සරනයි😋💝☞
+"
         },
         "BLOCK_MESSAGE": {
             "description": "Modifiable chat block notification. If you do not want to change this message, type default.",
@@ -142,7 +157,7 @@
         "WORK_TYPE": {
             "description": "The way the bot works. If you use public, everyone can use the bot. If you use private, only you can use your bot.",
             "required": true,
-            "value": "private"
+            "value": "public"
         },
         "EMOJI_COMMAND": {
             "description": "You can change Command list emojis.)",
@@ -167,7 +182,7 @@
         "PANEL_COMMAND": {
             "description": "Customizeable commands list request command. Keep alexa if you don't want to change.",
             "required": true,
-            "value": "alexa"
+            "value": "nethmika"
         },
         "REMOVE_BG_API_KEY": {
             "description": "Here you go to the website remove.bg and sign up and get an API key. Leave the API key in this space.",
@@ -236,7 +251,7 @@
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ɴᷜᴇͥᴛᷠʜᷚᴍɪᴋͥᴀ ɪͣᴍͫᴀʟ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
         }
     },
     "addons": [{
