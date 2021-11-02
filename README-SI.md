@@ -74,7 +74,7 @@ Project of  🧚Amazone - Makes it easy and fun to use Whatsapp. Also first Made
 ### Simple method 
 
 #### You can easily get the QR code Repl.it .. Click the button below
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/NeotroWA-XQR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@tenuh/Alexa?v=1)
 
 `You need 2 mobile phones to build the Neotro-x  bot!
 You will run the bot from the second device.
