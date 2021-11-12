@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "ඉදුව "
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -39,7 +39,7 @@
         "SONGD": {
             "description": "Customizable Song Download message",
             "required": false,
-            "value": "*◦•●◉Downloading Your Song◉●•◦*"
+            "value": "*◦•●◉D◉●•◦*"
         },
         "SONGU": {
             "description": "Customizable Song upload message",
@@ -87,7 +87,7 @@
         "CAPTIONS": {
             "description": "Set your caption under medias.",
             "required": true,
-            "value": "Made By 👩‍🦰Amazone Alexa"
+            "value": "Made By 👩‍🦰tech with iduva"
         },
         "MUTE_MESSAGE": {
             "description": "Message received when mute a group. If you do not want to change this message, type default.",
