@@ -233,6 +233,11 @@
             "required": false,
             "value": "false"
         },
+        "LOL_API": {
+            "description": "Set your LOLHuman API Key.",
+            "required": false,
+            "value": "default"
+        },
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
