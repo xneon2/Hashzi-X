@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xneon2/Hashzi-1.git"
+    "url": "git+https://github.com/ChamodKeshan/Hashzi-1.git"
   },
   "keywords": [
     "whatsapp",
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated/issues"
   },
-  "homepage": "https://github.com/xneon2/Hashzi-1#readme",
+  "homepage": "https://github.com/ChamodKeshan/Hashzi-1#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.4.1",
     "@octokit/core": "3.5.1",
