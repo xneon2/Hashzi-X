@@ -15,7 +15,7 @@ async function whatsAsena() {
   conn.on('connecting', async () => {
     console.log(`${chalk.green.bold('Amazone Alexa')}${chalk.green.bold('Team')}
 ${chalk.white.italic('amazone String code recipient')}
-${chalk.blue.bold('ℹ️  Connecting alexa... Please wait.')}`);
+${chalk.blue.bold('ℹ️  Connecting shadow... Please wait.')}`);
   });
 
   conn.on('open', async () => {
