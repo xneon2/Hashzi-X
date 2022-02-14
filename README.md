@@ -1,6 +1,6 @@
 #### © Select your language
-  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/xneon2/Hashzi-X/blob/main/README.md)
+  [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/ChamodKeshan/Hashzi-X/blob/main/README-SI.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/ChamodKeshan/Hashzi-X/blob/main/README.md)
     
 </a>          
 
@@ -29,32 +29,32 @@
    </a>
 </p>
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square"/></a>
   
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square">
     
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/xneon2/Hashzi-X">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fxneon2%2FHashzi-X&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X/fork">
-    <img src="https://img.shields.io/github/forks/xneon2/Hashzi-X?label=Fork&style=social">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X/fork">
+    <img src="https://img.shields.io/github/forks/ChamodKeshan/Hashzi-X?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/xneon2/Hashzi-X/stargazers">
-    <img src="https://img.shields.io/github/stars/xneon2/Hashzi-X?style=social">
+  <a href="https://github.com/ChamodKeshan/Hashzi-X/stargazers">
+    <img src="https://img.shields.io/github/stars/ChamodKeshan/Hashzi-X?style=social">
   </a>
 </p>
 
 <p align="center">
-  <a href="httsp://github.com/xneon2/Hashzi-X">
+  <a href="httsp://github.com/ChamodKeshan/Hashzi-X">
     <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Boyutu&style=plastic">
 
   </a>
@@ -146,6 +146,15 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 
 [![Chethana_Broh-TeenuhX](https://github.com/tenuh.png?size=100)](https://https://youtu.be/mcEeIspWOpY)
 
+
+# Repair with
+
+ ***M.R.Chamod_Keshan(repair👾)
+<a href="https://Wa.me/+94786825798">
+    <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
+  
+  </a>
+
  ***ᴄʜᴇᴛʜᴀɴᴀ_ʙʀᴏ(Teenuh-X😈)***
 <a href="https://Wa.me/+94766598862">
     <img src="https://img.shields.io/badge/FindOn%20whatsapp-purple&style=plastic">
@@ -171,6 +180,10 @@ neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම�
 [![Instergram](https://img.shields.io/badge/FindOn-Instergram-green.svg)](https://instergram.com/tharun_003)
 [![Find On Whatsapp ](https://img.shields.io/badge/Findon-whatsapp-red.svg)](https://Wa.me/+94766598862)
 
+
+# 🔖Repair by
+
+[![Find On Whatsapp ](https://img.shields.io/badge/Chamod-Keshan-blue.svg)](https://Wa.me/94786825798) [![Find On Whatsapp ](https://img.shields.io/badge/Chamod-Keshan-blue.svg)](https://Wa.me/+94786825798) [![Find On Whatsapp ](https://img.shields.io/badge/M.R.Chamod-blue.svg)](https://Wa.me/94786825798)
 
 ### 🚀Amazone Alexa Team
 
