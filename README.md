@@ -1,6 +1,6 @@
 #### © Select your language
   [![English](https://img.shields.io/badge/Select-English-red.svg)](https://github.com/ChamodKeshan/Hashzi-X/blob/main/README-SI.md)
-  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/ChamodKeshan/Hashzi-X/blob/main/README.md)
+  [![Sinhala](https://img.shields.io/badge/Select-Sinhala-green.svg)](https://github.com/ChamodKeshan/Hashzi-X)
     
 </a>          
 
