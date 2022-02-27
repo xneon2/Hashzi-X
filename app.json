@@ -112,7 +112,7 @@
         "ALIVE_LOGO": {
             "description": "Alive message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
             "required": true,
-            "value": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg"
+            "value": "https://i.ibb.co/0Xzsqf1/In-Shot-20220218-194616984.jpg"
         },
         "WELCOME_GIF": {
             "description": "Welcome message logo. Enter your image link below to change the image. (Upload the image you want to https://imgbb.com and put that link here.)",
