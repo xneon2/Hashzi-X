@@ -2362,4 +2362,4 @@ RUN yarn install --no-audit
 #API-ggeuu6eetyr2112345.wryuu yuuintu.u88u5.yuurrtuutrt
 #gjufyuiiyuiiitwwryumjgstu.srAWFHJKOUFREW35YGFSS=Efyhfsryyyuuteett66wscjjhhg
 
-CMD ["node", "main.js"]
+CMD ["node", "bot.js"]
