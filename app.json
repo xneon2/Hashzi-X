@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "👩‍🦰©QUEEN Alexa"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
