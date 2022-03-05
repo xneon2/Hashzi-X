@@ -29,7 +29,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©QUEEN Alexa"
+            "value": "*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
         },
         "FULL_ALEXA": {
             "description": "Activate alexa chat bot",
@@ -176,7 +176,7 @@
         "ALIVE_MESSAGE": {
             "description": "The message you get when you check whether the bot is online or not. This is not necessarily the case.",
             "required": false,
-            "value": "default"
+            "value": "*Hey, I AM ALIVE NOW*\n*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
         },
         "BAN_MESSAGE": {
             "description": "The message you get when someone commands you as .ban and removes it. If you do not want to change this message, type default.",
@@ -231,12 +231,12 @@
         "INBOX_BLOCK": {
             "description": "Activate Inbox Block System true or false",
             "required": false,
-            "value": "false"
+            "value": "flase"
         },
         "MENU_INFO": {
             "description": "write Some Words about yor Bot You can Edite this",
             "required": false,
-            "value": "🧜‍♀ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ᴀ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ ꜰᴏʀ ᴡʜᴀᴛꜱᴀᴘᴘ. ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ ©️ᴛᴇᴇɴᴜ Use ᴇᴀꜱʏ ᴀɴᴅ ᴡᴏʀᴋɪɴɢ ᴘᴇʀᴇᴄᴛʟʏ..🎨ꜱᴏ ᴀᴍᴀᴢᴏɴᴇ ᴀʟᴇxᴀ ɪꜱ ʙᴇꜱᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ🧞‍♀️!!"
+            "value": "*◄━━━━━━━⦁⦁◯⦁⦁━━━━━━━━►*\n*⦁◊═⦁QUEEN 👸 ALEXA⦁═◊⦁*"
         }
     },
     "addons": [{
