@@ -3,7 +3,7 @@
     "description": "Alexa is a chat bot for WhatsApp. Makes it easy and Working perfectly",
     "logo": "https://telegra.ph/file/2046371f4b8e65dd4d52e.jpg",
     "keywords": ["whatsapp", "userbot", "bot", "api", "ai", "amazone alexa"],
-    "repository": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
+    "repository": "https://github.com/crazybunnyts/Hashzi-X",
     "website":   "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "success_url": "https://chat.whatsapp.com/B5i5mfIerpC6K8jf6GkM7I",
     "stack": "container",
