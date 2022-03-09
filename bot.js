@@ -430,13 +430,13 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
                             await command.function(whats, match);
                         } catch (error) {
                             if (config.LANG == 'EN') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_👾Support 01▷https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_👾Support 01▷https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B\n\n*Error:* ```' + error + '```\n\n' });
                                 
                             } else if (config.LANG == 'SI') {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  නිසි ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\n_👾Support 01▷https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48\n\n*දෝෂය:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  නිසි ලෙස ක්‍රියා කරයි!!\n\n▷ _මෙය ඔබගේ LOG අංකයයි මෙහි විධන භාවිතයෙන් වළකින්න_\n▷ඔබට යම් ගැටලුවක් ඇත්නම් අපගේ සහය සමූහට ලිවිය හැක.\n_👾Support 01▷https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B\n\n*දෝෂය:* ```' + error + '```\n\n' });
                                 
                             } else {
-                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_👾Support 01▷https://chat.whatsapp.com/DSX2aegJpVRG3cWIUlBa48\n\n*Error:* ```' + error + '```\n\n' });
+                                await conn.sendMessage(conn.user.jid, fs.readFileSync("./src/image/Amazone.png"), MessageType.image, { caption: '*🚀AMAZONE ALEXA*  WORKING PERFECTLY !!\n\n▷ _This is your LOG number Dont Try Command here_\n▷Also You Can join Our Support group More Help.\n_👾Support 01▷https://chat.whatsapp.com/EzQHXDVCU088IaunEuTJ7B\n\n*Error:* ```' + error + '```\n\n' });
                             }
                         }
                     }
@@ -459,10 +459,5 @@ ${chalk.blue.italic('👩‍🦰 Connecting to WhatsApp...▶')}`);
         }
     }
 }
- // ════════════════════disc◽◽◽◽◽   
-
-}));
-netro-x['IntroduceCMD']({on: 'text', fromMe: false, dontAdCommandList: true}, (async (message, match) => {
-if(Details.VOICE_REPLY == 'true'){if(!!message.mention && message.mention[0] == '94702256963@s.whatsapp.net') {await message.client.sendMessage(message.jid, fs.readFileSync('./Voicesticker/mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})};const array = ['alexa'alive'button ekak'];array.map( async (a) => {let pattern = new RegExp(`\\b${a}\\b`, 'g');if(pattern.test(message.message)){await message.client.sendMessage(message.jid, fs.readFileSync('./Voicesticker/' + a + '.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted: message.data, ptt: true})}})}}))
 
 whatsAsena();
